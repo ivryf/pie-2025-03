@@ -209,7 +209,7 @@ nav.scrolled {
 nav ul {
     list-style: none;
     display: flex;
-    gap: 45px;
+    gap: 40px;
     align-items: center;
 }
 
